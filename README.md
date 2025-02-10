@@ -28,7 +28,6 @@ Technologien im Einsatz:
 //some source code configuration
  
 ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
